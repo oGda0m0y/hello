@@ -1,7 +1,8 @@
 body {
-	margin-left:25%;
-	min-width: 300px;
+	margin-left:30%;
+	min-width: 200px;
 	color:#333;
-	font-size:14px;
-	background-color:red;
+	font-size:26px;
+	background-color: yellow;
+	text-align: center;
 }
